@@ -1,0 +1,15 @@
+//
+//  InstaFeed-Prefix.pch
+//  InstaFeed
+//
+//  Created by Евгений on 3/14/16.
+//  Copyright © 2016 Евгений. All rights reserved.
+//
+
+#ifndef InstaFeed_Prefix_pch
+#define InstaFeed_Prefix_pch
+
+@import UIKit;
+@import Foundation;
+
+#endif /* InstaFeed_Prefix_pch */
